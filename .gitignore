@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+out
+.idea
+zadanie 2.1.iml
